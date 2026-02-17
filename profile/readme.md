@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CloakAnalytics/.github/refs/heads/main/cloak.svg" width="140" alt="Cloak" />
+  <img src="https://raw.githubusercontent.com/CloakAnalytics/.github/refs/heads/main/cloak-text-logo.png" width="300" alt="Cloak" />
 </p>
 
 <p align="center">
