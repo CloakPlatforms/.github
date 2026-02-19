@@ -13,10 +13,6 @@
   Cloak Platforms builds production-grade infrastructure where privacy, security, and data minimization are enforced at the architectural layer.
 </p>
 
-<p align="center">
-  We design and operate backend systems that reduce data exposure, minimize attack surface, and make secure defaults automatic, not optional.
-</p>
-
 ---
 
 <p align="center">
