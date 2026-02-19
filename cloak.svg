@@ -1,48 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256">
-  <defs>
-    <!-- Inner tile gradient -->
-    <radialGradient id="tileGrad" cx="50%" cy="40%" r="75%">
-      <stop offset="0%" stop-color="#0c3a2c"/>
-      <stop offset="100%" stop-color="#07261d"/>
-    </radialGradient>
-
-    <!-- Soft outer glow like your screenshot -->
-    <filter id="tileGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.65"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#2e6450" flood-opacity="0.35"/>
-    </filter>
-
-    <!-- Slight glow for the hex -->
-    <filter id="hexGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#6ee7b7" flood-opacity="0.25"/>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="256" height="256" fill="url(#bgGrad)"/>
-
-  <!-- Rounded square tile -->
-  <g filter="url(#tileGlow)">
-    <rect x="34" y="34" width="188" height="188" rx="54"
-          fill="url(#tileGrad)"
-          stroke="#2e6450" stroke-width="6"/>
-    <!-- Inner ring (gives that “double edge” feel) -->
-    <rect x="42" y="42" width="172" height="172" rx="48"
-          fill="none"
-          stroke="#1f4f3e" stroke-width="3" opacity="0.9"/>
-  </g>
-
-  <!-- Filled hex (regular hexagon) -->
-  <!-- Points are for a centered hex with radius ~46 -->
-  <polygon
-    filter="url(#hexGlow)"
-    fill="#6ee7b7"
-    points="
-      128,82
-      167.8,105
-      167.8,151
-      128,174
-      88.2,151
-      88.2,105
-    "/>
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M47 1H19C9.05887 1 1 9.05887 1 19V47C1 56.9411 9.05887 65 19 65H47C56.9411 65 65 56.9411 65 47V19C65 9.05887 56.9411 1 47 1Z" fill="#10B981" fill-opacity="0.1" stroke="#6EE7B7" stroke-opacity="0.35" stroke-width="2"/>
+<path d="M47 4H19C10.7157 4 4 10.7157 4 19V47C4 55.2843 10.7157 62 19 62H47C55.2843 62 62 55.2843 62 47V19C62 10.7157 55.2843 4 47 4Z" stroke="#10B981" stroke-opacity="0.25"/>
+<path d="M33 19L45 26V40L33 47L21 40V26L33 19Z" fill="#6EE7B7"/>
 </svg>
