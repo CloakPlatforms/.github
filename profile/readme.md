@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CloakPlatforms/.github/refs/heads/main/cloak-text-logo.png" width="300" alt="Cloak Platforms" />
+  <img src="https://raw.githubusercontent.com/CloakPlatforms/.github/refs/heads/main/cloakplatforms-text-logo.png" width="300" alt="Cloak Platforms" />
 </p>
 
 <p align="center">
