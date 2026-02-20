@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  🌐 https://cloakplatforms.org
+  🌐 https://usecloak.app
 </p>
