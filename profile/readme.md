@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://usecloak.app" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/CloakPlatforms/.github/refs/heads/main/cloakplatforms-text-logo.svg" width="300" alt="Cloak Platforms" />
+</a>
 </p>
 
 <p align="center">
